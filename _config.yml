@@ -1,0 +1,4 @@
+url: "https://lasagna.pizza"
+baseurl: "/"
+title: "lasagna.pizza"
+include: ["_redirects"]

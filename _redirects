@@ -1,0 +1,4 @@
+/.well-known/matrix/* https://matrix.lasagna.pizza/.well-known/matrix/:splat 200!
+/.well-known/webfinger* https://social.lasagna.pizza/.well-known/webfinger:splat 200!
+/.well-known/host-meta* https://social.lasagna.pizza/.well-known/host-meta:splat 200!
+/.well-known/nodeinfo* https://social.lasagna.pizza/.well-known/nodeinfo:splat 200!
